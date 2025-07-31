@@ -75,7 +75,7 @@
                 figure(data-aos="zoom-in")
                   img(src="@/assets/curso/tema3/img3.png", alt="alt", style="width: 305px").m-auto
               .col-lg-8
-                SlyderF.custom.mb-5(columnas="col-lg-6 col-md-6 col-xl-6")
+                SlyderF.custom.mb-5(columnas="col-md-6 col-xl-4")
                   .tarjeta.tarjeta--slyder.p-4
                     .row.justify-content-center.mb-3
                       .col-8

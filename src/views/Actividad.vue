@@ -20,10 +20,10 @@ export default {
       tema: 'Normatividad y Formalización de Empresas',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la normatividad y los procesos de formalización empresarial en Colombia, incluyendo conceptos clave sobre comerciantes, empresas, sociedades, obligaciones legales y requisitos administrativos.',
+        '<b> Objetivo:</b> evaluar la normatividad y los procesos de formalización empresarial en Colombia, incluyendo conceptos clave sobre comerciantes, empresas, sociedades, obligaciones legales y requisitos administrativos.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
@@ -60,7 +60,7 @@ export default {
           id: 2,
           texto:
             '¿Cuál es una de las obligaciones de los comerciantes según el Código de Comercio?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -91,7 +91,7 @@ export default {
           id: 3,
           texto:
             '¿Cuál de las siguientes opciones corresponde a una clasificación de empresa según su capital?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -122,7 +122,7 @@ export default {
           id: 4,
           texto:
             '¿Qué documento se tramita ante la DIAN para obtener el Número de Identificación Tributaria (NIT)?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -153,7 +153,7 @@ export default {
           id: 5,
           texto:
             '¿Qué organismo regula y administra el registro mercantil en Colombia?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -216,7 +216,7 @@ export default {
           id: 7,
           texto:
             '¿Cuál de las siguientes clasificaciones de empresa se basa en el número de trabajadores y los ingresos?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -247,7 +247,7 @@ export default {
           id: 8,
           texto:
             '¿Qué entidad se encarga de la expedición del Registro Único Tributario (RUT)?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -278,7 +278,7 @@ export default {
           id: 9,
           texto:
             '¿Cuál es el propósito del certificado de sanidad en la formalización de una empresa?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -310,7 +310,7 @@ export default {
           id: 10,
           texto:
             '¿Cuál de los siguientes tipos de empresas aplica Normas Internacionales de Información Financiera (NIIF) en su contabilidad?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -362,7 +362,7 @@ export default {
           id: 12,
           texto:
             'La inscripción en la Cámara de Comercio es opcional para todas las empresas, sin importar su actividad económica.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -383,7 +383,7 @@ export default {
           id: 13,
           texto:
             'Todas las empresas en Colombia deben aplicar las Normas Internacionales de Información Financiera (NIIF) sin excepción.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -404,7 +404,7 @@ export default {
           id: 14,
           texto:
             'Una empresa clasificada como de economía mixta cuenta con capital tanto público como privado.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -425,7 +425,7 @@ export default {
           id: 15,
           texto:
             'En Colombia, una sociedad anónima debe tener al menos cinco socios para su constitución.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
